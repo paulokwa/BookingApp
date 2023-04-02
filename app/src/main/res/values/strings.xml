@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BookingApp</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="tvAppName">RedGroupApp</string>
+    <string name="tvMessage">Create New Account</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="return_to_login">Already have an account? Login!</string>
+    <string name="create_account">Create Account</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_back">Previous</string>
+    <string name="btn_9">9 AM</string>
+    <string name="btn_10">10 AM</string>
+    <string name="btn_11">11 AM</string>
+    <string name="btn_12">12 PM</string>
+    <string name="btn_1">1 PM</string>
+    <string name="btn_2">2 PM</string>
+    <string name="btn_3">3 PM</string>
+    <string name="btn_4">4 PM</string>
+    <string name="btn_5">5 PM</string>
+    <string name="btn_6">6 PM</string>
+    <string name="btn_7">7 PM</string>
+    <string name="btn_8">8 PM</string>
+    <string name="btn_next">Next</string>
+    <string name="tvDateP">Date</string>
+    <string name="hint_confirm">Confirm Password</string>
+    <string name="rooms">ROOMS</string>
+
+</resources>

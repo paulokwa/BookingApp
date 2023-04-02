@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949227306708",
+    "project_id": "nscc-bookingapp",
+    "storage_bucket": "nscc-bookingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949227306708:android:3d51ec9143b26aa56f4541",
+        "android_client_info": {
+          "package_name": "com.example.bookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949227306708-v881al6mdjrsaagp4puquf82usluvq20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtMuzWiHjyKwErtByf3V4FCi03mhuRvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949227306708-v881al6mdjrsaagp4puquf82usluvq20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
